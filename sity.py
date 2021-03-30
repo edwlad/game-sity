@@ -71,7 +71,7 @@ while True:
         err = 0
         last = (ans[-2] if ans[-1] in 'цыь' else ans[-1])
 
-    if err > 2:
+    if err > 3:
         print(f'Победил {gamer[(idx + 1) % 2]}.')
         break
     elif len(sity.get(last, [])) == 0:
