@@ -1,5 +1,5 @@
 # My setting
-.vscode  # VSCode settings
+.vscode/  # VSCode settings
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
