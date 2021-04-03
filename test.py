@@ -1,2 +1,2 @@
 def empty():
-    assert True
+    assert True, 'Пустой тест'

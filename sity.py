@@ -1,7 +1,7 @@
 #! python3
 
 import sys
-# sys.stdin = open('test.txt', encoding='utf-8')
+# sys.stdin = open('temp.txt', encoding='utf-8')
 
 sity = {
     'а': ['абакан', 'азов', 'александров', 'алексин', 'альметьевск', 'анапа', 'ангарск', 'анжеро-судженск', 'апатиты',
