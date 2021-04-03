@@ -1,0 +1,2 @@
+def empty():
+    assert True
